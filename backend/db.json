@@ -1,0 +1,26 @@
+{
+  "marketplaces": [
+    {
+      "id": 1,
+      "title": "KFC",
+      "description": "Новый Рождественский Темный Бургер уже в KFC - спеши попробовать!",
+      "location": "Кулакова проспект, 7/1a",
+      "outletCount": 5,
+      "rate": 3,
+      "category": "сеть ресторанов быстрого питания",
+      "logoUrl": "https://img.favpng.com/6/4/17/kfc-logo-fast-food-restaurant-mcdonald-s-png-favpng-586WW8T9QTiLqdvUwnDGmTjCG.jpg",
+      "publicPageUrl": "https://www.kfc.ru/"
+    },
+    {
+      "id": 2,
+      "title": "Тайга",
+      "description": "Мы жарим кофе",
+      "location": "Кулакова проспект, 7/1a",
+      "outletCount": 5,
+      "rate": 3,
+      "category": "сеть ресторанов быстрого питания",
+      "logoUrl": "https://stavgo.ru/wp-content/uploads/logo-28276522_2012734925635375_616849861126454708_n-330x330.jpg",
+      "publicPageUrl": "https://www.kfc.ru/"
+    }
+  ]
+}

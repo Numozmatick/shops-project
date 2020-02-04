@@ -1,0 +1,9 @@
+.shop {
+    display: block;
+    background-color: darkgray;
+    margin: 5px ;
+    border: 3px solid black;
+    border-radius: 25px;
+    height: 30px;
+
+}

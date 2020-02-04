@@ -1,0 +1,13 @@
+
+.app-wrapper {
+display: grid;
+    grid-template-areas:"Leftside Rightside";
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 10px;
+}
+.right-side {
+    grid-area: Rightside;
+}
+.left-side{
+    grid-area: Leftside;
+}
